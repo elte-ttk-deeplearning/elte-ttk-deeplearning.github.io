@@ -23,8 +23,15 @@ olvasószemináriumi előadás megtartásával.
 Az érdeklődő hallgatók számára lehetőséget biztosítunk
 izgalmas kutatási projektekbe való bekapcsolódásra.
 
-Ízelítőül néhány olyan módszer, amelyről szó lesz a félév folyamán:
+---
+
+Ízelítőül a deep learning néhány sikere:
 
 Generative Adversarial Network. Illusztráció a StackGAN szöveget képpé alakító rendszertől:
 ![StackGAN](pics/stackgan.jpg "StackGAN")
 
+Látens térbeli szemantikus képmanipuláció. Illusztráció a FaceApp-ból:
+![FaceApp](pics/faceapp.jpg "FaceApp")
+
+Policy Improvement. Illusztráció: Az AlphaZero négy órával a sakk szabályainak megismerése után legyőzi a sakkvilágbajnokot.
+![AlphaZero Zugzwang](pics/alphazero-zugzwang.jpg "AlphaZero Zugzwang")
