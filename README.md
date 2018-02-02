@@ -1,3 +1,28 @@
+## ELTE TTK Deep Learning Szeminárium
+
+*Tárgy kód:* deepln1x0_m17vx
+
+*Időpont:* szerda 14:15. Első alkalom: február 14.
+
+*Helyszín:* ELTE, Déli tömb. Terem később véglegesítve.
+
+*Jegyszerzés módja:* olvasószemináriumi előadás vagy labormunka
+
+A kurzus felépítése:
+
+- Bevezető előadások a deep learning-ről
+- Közös labormunka python/numpy/tensorflow/keras környezetben
+- Előadások modern deep learning modellekről
+
+Az érdeklődő hallgatók számára lehetőséget biztosítunk
+izgalmas kutatási projektekbe való bekapcsolódásra.
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/elte-deeplearning/elte-deeplearning.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
