@@ -1,11 +1,3 @@
-# ELTE TTK Deep Learning Szeminárium
-
-**Tárgy kód:** deepln1x0_m17vx
-
-**Időpont:** szerda 14:15. Első alkalom: február 14.
-
-**Helyszín:** ELTE, Déli tömb. Terem később véglegesítve.
-
 **Jegyszerzés módja:** olvasószemináriumi előadás vagy önálló labormunka.
 Azoknak a hallgatóknak, akik birtokában vannak python/numpy alapismereteknek,
 a labormunkát ajánljuk a jegyszerzésre. Ezek hiányában is elvégezhető a tárgy,
@@ -31,5 +23,8 @@ olvasószemináriumi előadás megtartásával.
 Az érdeklődő hallgatók számára lehetőséget biztosítunk
 izgalmas kutatási projektekbe való bekapcsolódásra.
 
-Ízelítőül néhány olyan technológia, amelyről szó lesz a félév folyamán:
+Ízelítőül néhány olyan módszer, amelyről szó lesz a félév folyamán:
+
+Generative Adversarial Network. Illusztráció a StackGAN szöveget képpé alakító rendszertől:
+![StackGAN](pics/stackgan.jpg "StackGAN")
 
