@@ -25,17 +25,23 @@ izgalmas kutatási projektekbe való bekapcsolódásra.
 
 ---
 
-Kedvcsináló illusztrációk néhány sikeres deep learning rendszerről:
+Alább kedvcsináló illusztrációk néhány sikeres deep learning rendszerről. Ezek, vagy egyszerűbb változataik a szemináriumon is bemutatásra kerülnek majd.
 
 A [Mask R-CNN](https://github.com/matterport/Mask_RCNN) képszegmentáló:
 ![Mask R-CNN](pics/mask-r-cnn-1.jpg "Mask R-CNN")
 
+---
+
 A [StackGAN](https://github.com/hanzhanggit/StackGAN) szöveget képpé alakító rendszer:
 ![StackGAN](pics/stackgan.jpg "StackGAN")
+
+---
 
 Látens térbeli szemantikus képmanipuláció. Illusztráció a FaceApp-ból:
 ![FaceApp](pics/faceapp.jpg "FaceApp")
 
-Az AlphaZero négy órával a sakk szabályainak megismerése után legyőzi a sakkvilágbajnokot. AlphaZero világossal lép:
+---
+
+Az AlphaZero négy órával a sakk szabályainak megismerése után legyőzi a sakkvilágbajnok Stockfish programot. AlphaZero világossal lép:
 
 ![AlphaZero Zugzwang](pics/alphazero-zugzwang.jpg "AlphaZero Zugzwang")
