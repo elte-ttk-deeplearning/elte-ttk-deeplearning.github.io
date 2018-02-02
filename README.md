@@ -25,13 +25,17 @@ izgalmas kutatási projektekbe való bekapcsolódásra.
 
 ---
 
-Ízelítőül a deep learning néhány sikere:
+Kedvcsináló illusztrációk néhány sikeres deep learning rendszerről:
 
-Generative Adversarial Network. Illusztráció a StackGAN szöveget képpé alakító rendszertől:
+A [Mask R-CNN](https://github.com/matterport/Mask_RCNN) képszegmentáló:
+![Mask R-CNN](pics/mask-r-cnn-1.jpg "Mask R-CNN")
+
+A [StackGAN](https://github.com/hanzhanggit/StackGAN) szöveget képpé alakító rendszer:
 ![StackGAN](pics/stackgan.jpg "StackGAN")
 
 Látens térbeli szemantikus képmanipuláció. Illusztráció a FaceApp-ból:
 ![FaceApp](pics/faceapp.jpg "FaceApp")
 
-Policy Improvement. Illusztráció: Az AlphaZero négy órával a sakk szabályainak megismerése után legyőzi a sakkvilágbajnokot.
+Az AlphaZero négy órával a sakk szabályainak megismerése után legyőzi a sakkvilágbajnokot. AlphaZero világossal lép:
+
 ![AlphaZero Zugzwang](pics/alphazero-zugzwang.jpg "AlphaZero Zugzwang")
