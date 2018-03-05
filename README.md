@@ -1,6 +1,7 @@
 **A 2018-as tavaszi félév programja**
 
 - 2018\. 02\. 14\. [Az 1. előadás slidejai](docs/01.pdf)
+- 2018\. 02\. 21\. [Az 2. előadás slidejai](docs/02.pdf)
 
 **Jegyszerzés módja:** olvasószemináriumi előadás vagy önálló labormunka.
 Azoknak a hallgatóknak, akik birtokában vannak python/numpy alapismereteknek,
@@ -8,10 +9,10 @@ a labormunkát ajánljuk a jegyszerzésre. Ezek hiányában is elvégezhető a t
 olvasószemináriumi előadás megtartásával.
 
 **Előadók:**
-* Csiszárik Adrián (Rényi Intézet)
-* Lukács András (ELTE TTK Számítógéptudományi Tanszék)
-* Varga Dániel (Rényi Intézet)
-* Zombori Zsolt (Rényi Intézet)
+* Csiszárik Adrián (Rényi Intézet): csadrian@renyi.hu
+* Lukács András (ELTE TTK Számítógéptudományi Tanszék): lukacs@cs.elte.hu
+* Varga Dániel (Rényi Intézet): daniel@renyi.hu
+* Zombori Zsolt (Rényi Intézet): zombori@renyi.hu
 
 
 **A kurzus felépítése:**
