@@ -1,7 +1,7 @@
 **A 2018-as tavaszi félév programja**
 
 - 2018\. 02\. 14\. [Az 1. előadás slidejai](docs/01.pdf)
-- 2018\. 02\. 21\. [Az 2. előadás slidejai](docs/02.pdf)
+- 2018\. 02\. 21\. [A 2. előadás slidejai](docs/02.pdf)
 
 **Jegyszerzés módja:** olvasószemináriumi előadás vagy önálló labormunka.
 Azoknak a hallgatóknak, akik birtokában vannak python/numpy alapismereteknek,
