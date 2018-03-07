@@ -3,6 +3,12 @@
 - 2018\. 02\. 14\. [Az 1. előadás slidejai](docs/01.pdf)
 - 2018\. 02\. 21\. [A 2. előadás slidejai](docs/02.pdf)
 
+**Jelentkezés a feladatokra**
+
+- [Feladatok leírása](https://docs.google.com/document/d/1MgQLTNqnHJB68ff4Sc7ufsNmTLuOaVwftGfFr07UMAs)
+- [Jelentkezések táblázata](https://docs.google.com/spreadsheets/d/1cS-LSL6TgM-eb8Jep1sfEzcDNJkruQTmO8_KJREU9ac)
+
+
 **Jegyszerzés módja:** olvasószemináriumi előadás vagy önálló labormunka.
 Azoknak a hallgatóknak, akik birtokában vannak python/numpy alapismereteknek,
 a labormunkát ajánljuk a jegyszerzésre. Ezek hiányában is elvégezhető a tárgy,
