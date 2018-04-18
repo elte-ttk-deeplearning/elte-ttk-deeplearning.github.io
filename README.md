@@ -3,6 +3,7 @@
 - 2018\. 02\. 14\. [Az 1. előadás slidejai](docs/01.pdf)
 - 2018\. 02\. 21\. [A 2. előadás slidejai](docs/02.pdf)
 - 2018\. 03\. 21\. [Az 5. előadás slidejai](docs/05.pdf)
+- 2018\. 03\. 28\. [Az 6. előadás slidejai](docs/06.pdf)
 
 **Jelentkezés a feladatokra**
 
