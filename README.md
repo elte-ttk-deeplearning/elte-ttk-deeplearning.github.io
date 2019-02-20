@@ -1,6 +1,6 @@
 **A 2019-as tavaszi félév programja**
 
-- 2019\. 02\. 27\. [Az 1. előadás slidejai](docs/01.pdf)
+- 2019\. 02\. 20\. [Az 1. előadás slidejai](docs/01.pdf)
 
 **Konzultáció**
 
