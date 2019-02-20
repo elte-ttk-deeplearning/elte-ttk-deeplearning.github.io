@@ -1,15 +1,15 @@
 **A 2019-as tavaszi félév programja**
 
 - 2018\. 02\. 27\. [Az 1. előadás slidejai](docs/01.pdf)
-[//]: <> - 2018\. 02\. 21\. [A 2. előadás slidejai](docs/02.pdf)
-[//]: <> - 2018\. 03\. 21\. [Az 5. előadás slidejai](docs/05.pdf)
-[//]: <> - 2018\. 03\. 28\. [Az 6. előadás slidejai](docs/06.pdf)
-[//]: <> - 2018\. 05\. 16\. [Kutatási ötletek](docs/kutatasi_otletek.pdf)
+[comment]: <> - 2018\. 02\. 21\. [A 2. előadás slidejai](docs/02.pdf)
+[comment]: <> - 2018\. 03\. 21\. [Az 5. előadás slidejai](docs/05.pdf)
+[comment]: <> - 2018\. 03\. 28\. [Az 6. előadás slidejai](docs/06.pdf)
+[comment]: <> - 2018\. 05\. 16\. [Kutatási ötletek](docs/kutatasi_otletek.pdf)
 
-[//]: <> **Jelentkezés a feladatokra**
-[//]: <> 
-[//]: <> - [Feladatok leírása](https://docs.google.com/document/d/1MgQLTNqnHJB68ff4Sc7ufsNmTLuOaVwftGfFr07UMAs)
-[//]: <> - [Jelentkezések táblázata](https://docs.google.com/spreadsheets/d/1cS-LSL6TgM-eb8Jep1sfEzcDNJkruQTmO8_KJREU9ac)
+[comment]: <> **Jelentkezés a feladatokra**
+[comment]: <> 
+[comment]: <> - [Feladatok leírása](https://docs.google.com/document/d/1MgQLTNqnHJB68ff4Sc7ufsNmTLuOaVwftGfFr07UMAs)
+[comment]: <> - [Jelentkezések táblázata](https://docs.google.com/spreadsheets/d/1cS-LSL6TgM-eb8Jep1sfEzcDNJkruQTmO8_KJREU9ac)
 
 **Konzultáció**
 
