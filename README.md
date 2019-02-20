@@ -11,10 +11,9 @@
 
 https://github.com/zsoltzombori/keras_fashion_mnist_tutorial
 
-**Jegyszerzés módja:** olvasószemináriumi előadás vagy önálló labormunka.
-Azoknak a hallgatóknak, akik birtokában vannak python/numpy alapismereteknek,
-a labormunkát ajánljuk a jegyszerzésre. Ezek hiányában is elvégezhető a tárgy,
-olvasószemináriumi előadás megtartásával.
+**Jegyszerzés módja:** Önálló labormunka.
+A labormunka megkezdésének feltétele rövid házi feladatok teljesítése colab notebook környezetben.
+
 
 **Előadók:**
 * Csiszárik Adrián (Rényi Intézet): csadrian@renyi.hu
@@ -27,10 +26,7 @@ olvasószemináriumi előadás megtartásával.
 
 1. Bevezető előadások a deep learning-ről
 2. Közös labormunka python/numpy/tensorflow/keras környezetben
-3. Előadások modern deep learning modellekről
-  * a tárgy előadóitól,
-  * meghívott szakértőktől,
-  * olvasószemináriumi formában a kurzus hallgatóitól.
+3. Előadások modern deep learning modellekről.
 
 
 Az érdeklődő hallgatók számára lehetőséget biztosítunk
