@@ -1,0 +1,45 @@
+Deep Learning Szeminárium
+2019, tavaszi félév
+1. Házi feladat
+
+
+Az első házi feladat célja, hogy mindenki kialakítsa azt a python
+környezetet, amiben deep learning modelleket fog majd tudni futtatni.
+
+A feladathoz az alábbi linken található példakódra lesz szükség:
+https://github.com/zsoltzombori/keras_fashion_mnist_tutorial/blob/master/fashion_mnist_dense.py
+
+A program a fashion_mnist nevű adathalmazon tanul meg egy osztályozási
+feladatot és kb 90%-os pontosságot ér el. A házi feladat során ezt a
+programot kell többször lefuttatni, apró módosításokkal, azt
+vizsgálva, hogy a rendszer hogyan reagál különböző hiperparaméterek
+megváltozására. 3 hyperparamétert fogunk vizsgálni, mindegyiket 3
+értékkel. Ez összesen 9 futást eredményez, és a rendszer teszthalmazon
+elért pontosságát kell lejegyezni. Tehát a házi feladat megoldásaként
+9 számot kell elküldeni.
+
+1. Minibatch méret (BATCH_SIZE): Egyetlen tanító lépésben nem egyetlen
+adatpont alapján, hanem több adatpont hatását átlagolva módosítjuk a
+neurális háló paramétereit. Ez egyrészt nagyobb párhuzamosítást tesz
+lehetővé, másrészt stabilabbá teszi a tanulást.
+
+Feladat:
+Futtasd le a példakódot 8, 512 és 4096 -os minibatch
+mérettel!
+
+2. Tanulási ráta (LEARNING_RATE): A tanulási ráta határozza meg, hogy
+a negatív gradiens irányába milyen nagy mértékben lépjünk el.
+
+Feladat:
+Futtasd le a példakódot 0.1, 0.001, 0.00001-es tanulási rátával!
+
+3. Hálózati architektúra: A hálózat rétegeinek száma illetve az egyes
+rétegek mérete nagyban befolyásolja a hálózat teljesítményét.
+
+Feladat:
+Futtasd le a példakódot, úgy módosítva a hálózat architektúráját, hogy
+1, 2, 3 rejtett réteg legyen (rétegenként 512 neuronnal).
+
+
+Beadási határidő: 2019. március 8. (péntek) 24h.
+Beadás módja: email-ben a zombori@renyi.hu címre
