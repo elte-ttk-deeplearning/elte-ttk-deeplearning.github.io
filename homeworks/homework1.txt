@@ -38,7 +38,7 @@ rétegek mérete nagyban befolyásolja a hálózat teljesítményét.
 
 Feladat:
 Futtasd le a példakódot, úgy módosítva a hálózat architektúráját, hogy
-1, 2, 3 rejtett réteg legyen (rétegenként 512 neuronnal).
+1, 2, 3 rejtett réteg legyen (rétegenként 512 neuronnal)!
 
 
 Beadási határidő: 2019. március 8. (péntek) 24h.
