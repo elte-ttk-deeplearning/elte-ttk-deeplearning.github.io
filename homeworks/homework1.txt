@@ -3,20 +3,21 @@ Deep Learning Szeminárium
 1. Házi feladat
 
 
-Az első házi feladat célja, hogy mindenki kialakítsa azt a python
-környezetet, amiben deep learning modelleket fog majd tudni futtatni.
+A házi feladat célja, hogy mindenki sikeresen lefuttasson egy apró
+programot, mely egy neurális háló segítségével osztályoz képeket.
 
 A feladathoz az alábbi linken található példakódra lesz szükség:
 https://github.com/zsoltzombori/keras_fashion_mnist_tutorial/blob/master/fashion_mnist_dense.py
 
 A program a fashion_mnist nevű adathalmazon tanul meg egy osztályozási
 feladatot és kb 90%-os pontosságot ér el. A házi feladat során ezt a
-programot kell többször lefuttatni, apró módosításokkal, azt
-vizsgálva, hogy a rendszer hogyan reagál különböző hiperparaméterek
-megváltozására. 3 hyperparamétert fogunk vizsgálni, mindegyiket 3
-értékkel. Ez összesen 9 futást eredményez, és a rendszer teszthalmazon
-elért pontosságát kell lejegyezni. Tehát a házi feladat megoldásaként
-9 számot kell elküldeni.
+programot be kell illeszteni egy google colaboratory notebook-ba, majd
+többször lefuttatni, apró módosításokkal, azt vizsgálva, hogy a
+rendszer hogyan reagál különböző hiperparaméterek megváltozására. 3
+hyperparamétert fogunk vizsgálni, mindegyiket 3 értékkel. Ez összesen
+9 futást eredményez, és a rendszer teszthalmazon elért pontosságát
+kell lejegyezni. Tehát a házi feladat megoldásaként 9 számot kell
+elküldeni.
 
 1. Minibatch méret (BATCH_SIZE): Egyetlen tanító lépésben nem egyetlen
 adatpont alapján, hanem több adatpont hatását átlagolva módosítjuk a
@@ -25,7 +26,7 @@ lehetővé, másrészt stabilabbá teszi a tanulást.
 
 Feladat:
 Futtasd le a példakódot 8, 512 és 4096 -os minibatch
-mérettel!
+mérettel (BATCH_SIZE)!
 
 2. Tanulási ráta (LEARNING_RATE): A tanulási ráta határozza meg, hogy
 a negatív gradiens irányába milyen nagy mértékben lépjünk el.
