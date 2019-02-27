@@ -6,7 +6,7 @@
 
 **Házi feladatok**
 
-- 2019\. 02\. 27\. [1. házi feladat](homewrks/homework1.txt)
+- 2019\. 02\. 27\. [1. házi feladat](homeworks/homework1.txt)
 
 
 **Konzultáció**
