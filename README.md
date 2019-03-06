@@ -7,6 +7,7 @@
 **Házi feladatok**
 
 - 2019\. 02\. 27\. [1. házi feladat](homeworks/homework1.txt)
+- 2019\. 03\. 06\. [2. házi feladat](https://colab.research.google.com/gist/csadrian/f27b9a1ede5be726514c94ecf5cfb80b/convnet.ipynb)
 
 
 **Konzultáció**
