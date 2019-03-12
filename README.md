@@ -2,6 +2,7 @@
 
 - 2019\. 02\. 20\. [Az 1. előadás slidejai](docs/01.pdf)
 - 2019\. 02\. 27\. [Az 2. előadás slidejai](docs/02.pdf)
+- 2019\. 03\. 06\. [Az 3. előadás slidejai](docs/03.pdf)
 
 
 **Házi feladatok**
