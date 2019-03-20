@@ -1,9 +1,9 @@
 **A 2019-as tavaszi félév programja**
 
 - 2019\. 02\. 20\. [Az 1. előadás slidejai](docs/01.pdf)
-- 2019\. 02\. 27\. [Az 2. előadás slidejai](docs/02.pdf)
-- 2019\. 03\. 06\. [Az 3. előadás slidejai](docs/03.pdf)
-- 2019\. 03\. 13\. [Az 4. előadás slidejai](docs/04.pdf)
+- 2019\. 02\. 27\. [A 2. előadás slidejai](docs/02.pdf)
+- 2019\. 03\. 06\. [A 3. előadás slidejai](docs/03.pdf)
+- 2019\. 03\. 13\. [A 4. előadás slidejai](docs/04.pdf)
 
 
 **Házi feladatok**
