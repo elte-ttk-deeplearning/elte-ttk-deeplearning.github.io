@@ -4,6 +4,7 @@
 - 2019\. 02\. 27\. [A 2. előadás slidejai](docs/02.pdf)
 - 2019\. 03\. 06\. [A 3. előadás slidejai](docs/03.pdf)
 - 2019\. 03\. 13\. [A 4. előadás slidejai](docs/04.pdf)
+- 2019\. 03\. 20\. [Az 5. előadás slidejai](docs/DL_seminar_2019_GAN.pdf)
 
 
 **Házi feladatok**
