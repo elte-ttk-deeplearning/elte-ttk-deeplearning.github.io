@@ -8,7 +8,8 @@
 - 2019\. 03\. 27\. [A  6. előadás slidejai](docs/VAE_19marc.pdf)
 - 2019\. 04\. 03\. [A  7. előadás slidejai](docs/DL_seminar_2019_RL.pdf)
 
-
+**Projektek**
+https://docs.google.com/document/d/1gpkqmUlpGV2dBc9-6jdNYvlBDUdlbkNLvtB8oJsk6IQ
 
 **Házi feladatok**
 
