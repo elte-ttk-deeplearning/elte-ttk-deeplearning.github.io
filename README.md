@@ -7,6 +7,7 @@
 - 2019\. 03\. 20\. [Az 5. előadás slidejai](docs/DL_seminar_2019_GAN.pdf)
 - 2019\. 03\. 27\. [A  6. előadás slidejai](docs/VAE_19marc.pdf)
 - 2019\. 04\. 03\. [A  7. előadás slidejai](docs/DL_seminar_2019_RL.pdf)
+- 2019\. 04\. 10\. [A  8. előadás slidejai](docs/DL_seminar_2019_StyleGAN.pdf)
 
 **Projektek**
 https://docs.google.com/document/d/1gpkqmUlpGV2dBc9-6jdNYvlBDUdlbkNLvtB8oJsk6IQ
