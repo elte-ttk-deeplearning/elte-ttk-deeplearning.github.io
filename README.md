@@ -1,6 +1,6 @@
 **A 2020-as tavaszi félév (tervezett) programja**
 
-- 2020\. 02\. 12\. Bevezető, kedvcsináló
+- 2020\. 02\. 12\. Bevezető, kedvcsináló 
     - Előadó: Varga Dániel
 - 2020\. 02\. 19\. Deep Learning alapfogalmak
     - Előadó: Zombori Zsolt
