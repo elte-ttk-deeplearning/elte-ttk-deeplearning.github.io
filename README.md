@@ -1,34 +1,50 @@
-**A 2019-as tavaszi félév programja**
+**A 2020-as tavaszi félév (tervezett) programja**
 
-- 2019\. 02\. 20\. [Az 1. előadás slidejai](docs/01.pdf)
-- 2019\. 02\. 27\. [A  2. előadás slidejai](docs/02.pdf)
-- 2019\. 03\. 06\. [A  3. előadás slidejai](docs/03.pdf)
-- 2019\. 03\. 13\. [A  4. előadás slidejai](docs/04.pdf)
-- 2019\. 03\. 20\. [Az 5. előadás slidejai](docs/DL_seminar_2019_GAN.pdf)
-- 2019\. 03\. 27\. [A  6. előadás slidejai](docs/VAE_19marc.pdf)
-- 2019\. 04\. 03\. [A  7. előadás slidejai](docs/DL_seminar_2019_RL.pdf)
-- 2019\. 04\. 10\. [A  8. előadás slidejai](docs/DL_seminar_2019_StyleGAN.pdf)
+- 2020\. 02\. 12\. Bevezető, kedvcsináló
+    - Előadó: Varga Dániel
+- 2020\. 02\. 19\. Deep Learning alapfogalmak
+    - Előadó: Zombori Zsolt
+    - 1. Házi feladat kiadása
+- 2020\. 02\. 26\. Konvolúciós hálózatok
+    - Előadó: Csiszárik Adrián
+    ü 2. Házi feladat kiadása
+- 2020\. 03\. 04\. Optimalizálás neurális hálózatokban
+    - Előadó: Csiszárik Adrián
+- 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
+    - Előadó: Zombori Zsolt
+    - 3. Házi feladat kiadása
+- 2020\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks)
+    - Előadó: Varga Dániel
+    - 4. Házi feladat kiadása
+- 2020\. 03\. 25\. Generatív modellezés (Variational Autoencoders)
+    - Előadó: Kiss Melinda
+- 2020\. 04\. 01\. Szekvencia Modellezés
+    - Előadó: Zombori Zsolt
+- 2020\. 04\. 15\. Természestes nyelv feldolgozás (NLP)
+    - Előadó: Csanády Bálint
+    - 5. Házi feladat kiadása
+- 2020\. 04\. 22\. Attention, Transformer, BERT
+    - Előadó: Csiszárik Adrián
+- 2020\. 04\. 29\. Megerősítéses tanulás
+    - Előadó: Zombori Zsolt
+    - 6. Házi feladat kiadása
+- 2020\. 05\. 06\. StyleGAN
+    - Előadó: Varga Dániel
+- 2020\. 05\. 13\. Öntanulás (Self supervised learning)
+    - Előadó: Csiszárik Adrián
 
-**Projektek**
-https://docs.google.com/document/d/1gpkqmUlpGV2dBc9-6jdNYvlBDUdlbkNLvtB8oJsk6IQ
+**Jegyszerzés módja:** Házi feladatok.
+A jegyszerzéshez a kiadott 6 házi feladatból legalább 5-öt el kell készíteni.
 
-**Házi feladatok**
+**Feltételezett előismeretek:**
+Lineáris algebrai alapismeretek, többváltozós analízis alapismeretek, python alapismeretek
 
-- 2019\. 02\. 27\. [1. házi feladat](homeworks/homework1.txt)
-- 2019\. 03\. 06\. [2. házi feladat](https://colab.research.google.com/gist/csadrian/f27b9a1ede5be726514c94ecf5cfb80b/convnet.ipynb)
+A jegyszerzést megkönnyítő további előismeretek: gépi tanulás alapfogalmai, valószínűségszámítási alapismeretek, python tudományos programozás (numpy, scipy)
 
 
 **Konzultáció**
 
-- Személyes konzultáció: szerdánként 12:00-16:00 között, előzetes egyeztetés alapján, a 3.210-es teremben
-- E-mail konzultáció: bármikor
-
-**Példakód az első laborhoz**
-
-https://github.com/zsoltzombori/keras_fashion_mnist_tutorial
-
-**Jegyszerzés módja:** Önálló labormunka.
-A labormunka megkezdésének feltétele rövid házi feladatok teljesítése colab notebook környezetben.
+- Személyes konzultáció előzetes e-mail egyeztetés alapján
 
 
 **Előadók:**
@@ -38,12 +54,7 @@ A labormunka megkezdésének feltétele rövid házi feladatok teljesítése col
 * Zombori Zsolt (Rényi Intézet): zombori@renyi.hu
 
 
-**A kurzus felépítése:**
-
-1. Bevezető előadások a deep learning-ről
-2. Közös labormunka python/numpy/tensorflow/keras környezetben
-3. Előadások modern deep learning modellekről.
-
+**Hosszútávú kutatási lehetőségek**
 
 Az érdeklődő hallgatók számára lehetőséget biztosítunk
 izgalmas kutatási projektekbe való bekapcsolódásra.
