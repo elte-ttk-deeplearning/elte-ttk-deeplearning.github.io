@@ -5,22 +5,22 @@
 
 - 2020\. 02\. 19\. Deep Learning alapfogalmak
     + Előadó: Zombori Zsolt
-    + \1\. Házi feladat kiadása
+    + 1\. Házi feladat kiadása
 
 - 2020\. 02\. 26\. Konvolúciós hálózatok
     + Előadó: Csiszárik Adrián
-    + \2\. Házi feladat kiadása
+    + 2\. Házi feladat kiadása
 
 - 2020\. 03\. 04\. Optimalizálás neurális hálózatokban
     + Előadó: Csiszárik Adrián
 
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Zombori Zsolt
-    + \3\. Házi feladat kiadása
+    + 3\. Házi feladat kiadása
 
 - 2020\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks)
     + Előadó: Varga Dániel
-    + \4\. Házi feladat kiadása
+    + 4\. Házi feladat kiadása
 
 - 2020\. 03\. 25\. Generatív modellezés (Variational Autoencoders)
     + Előadó: Kiss Melinda
@@ -30,14 +30,14 @@
 
 - 2020\. 04\. 15\. Természetes nyelv feldolgozás (NLP)
     + Előadó: Csanády Bálint
-    + \5\. Házi feladat kiadása
+    + 5\. Házi feladat kiadása
 
 - 2020\. 04\. 22\. Attention, Transformer, BERT
     + Előadó: Csiszárik Adrián
 
 - 2020\. 04\. 29\. Megerősítéses tanulás
     + Előadó: Zombori Zsolt
-    + \6\. Házi feladat kiadása
+    + 6\. Házi feladat kiadása
 
 - 2020\. 05\. 06\. StyleGAN
     + Előadó: Varga Dániel
@@ -58,7 +58,7 @@ A jegyszerzést megkönnyítő további előismeretek: gépi tanulás alapfogalm
 
 **Konzultáció**
 
-- Személyes konzultáció előzetes e-mail egyeztetés alapján
+Személyes konzultáció előzetes e-mail egyeztetés alapján
 
 
 **Előadók:**
