@@ -64,11 +64,11 @@ Személyes konzultáció előzetes e-mail egyeztetés alapján
 **Előadók:**
 * Csiszárik Adrián: csadrian@renyi.hu
 * Lukács András: lukacs@cs.elte.hu
-* Varga Dániel: daniel@renyi.hu
-* Zombori Zsolt: zombori@renyi.hu
+* Varga Dániel: keresztnev@renyi.hu
+* Zombori Zsolt: vezeteknev@renyi.hu
 
-* Benkő Beatrix: benkobeatrix94@gmail.com
-* Czifra Domonkos: doma945@gmail.com
+* Benkő Beatrix: bbeatrix1010@gmail.com
+* Czifra Domonkos: keresztnev.vezeteknev@gmail.com
 * Csanády Bálint: 
 * Kiss Melinda: melindafkiss@gmail.com
 
