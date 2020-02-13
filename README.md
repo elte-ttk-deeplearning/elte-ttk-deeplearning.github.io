@@ -62,15 +62,15 @@ Személyes konzultáció előzetes e-mail egyeztetés alapján
 
 
 **Előadók:**
-* Csiszárik Adrián: csadrian@renyi.hu
-* Lukács András: lukacs@cs.elte.hu
+* Csiszárik Adrián: cs[keresztnev]@renyi.hu
+* Lukács András: vezeteknev@cs.elte.hu
 * Varga Dániel: keresztnev@renyi.hu
 * Zombori Zsolt: vezeteknev@renyi.hu
 
-* Benkő Beatrix: bbeatrix1010@gmail.com
+* Benkő Beatrix: b[keresztnev]1010@gmail.com
 * Czifra Domonkos: keresztnev.vezeteknev@gmail.com
-* Csanády Bálint: 
-* Kiss Melinda: melindafkiss@gmail.com
+* Csanády Bálint: cs[keresztnev]@cs.elte.hu
+* Kiss Melinda: [keresztnev]f[vezeteknev]@gmail.com
 
 **Hosszútávú kutatási lehetőségek**
 
