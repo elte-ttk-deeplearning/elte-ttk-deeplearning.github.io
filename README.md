@@ -3,7 +3,7 @@
 - 2020\. 02\. 12\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
     + Előadó: Varga Dániel
 
-- 2020\. 02\. 19\. Deep Learning alapfogalmak
+- 2020\. 02\. 19\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
     + Előadó: Zombori Zsolt
     + 1\. Házi feladat kiadása
 
