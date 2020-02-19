@@ -5,7 +5,7 @@
 
 - 2020\. 02\. 19\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
     + Előadó: Zombori Zsolt
-    + 1\. Házi feladat kiadása
+    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 4.
 
 - 2020\. 02\. 26\. Konvolúciós hálózatok
     + Előadó: Csiszárik Adrián
