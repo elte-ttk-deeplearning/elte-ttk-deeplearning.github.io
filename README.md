@@ -9,7 +9,7 @@
 
 - 2020\. 02\. 26\. Konvolúciós hálózatok
     + Előadó: Csiszárik Adrián
-    + 2\. Házi feladat kiadása
+    + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 11.
 
 - 2020\. 03\. 04\. Optimalizálás neurális hálózatokban
     + Előadó: Csiszárik Adrián
