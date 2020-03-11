@@ -16,7 +16,7 @@
 
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Zombori Zsolt
-    + [Laboron használt példaprogramok](lab/)
+    + Laboron használt példaprogramok: [tutorial.py](lab/tutorial.py), [tutorial_regularize.py](lab/tutorial_regularize.py), [tutorial_batchnorm.py](lab/tutorial_batchnorm.py), [tutorial_conv.py](lab/tutorial_conv.py), [tutorial_siamese.py](lab/tutorial_siamese.py), [tutorial_callback.py](lab/tutorial_callback.py), [tutorial_metric.py](lab/tutorial_metric.py)
     + 3\. Házi feladat kiadása
 
 - 2020\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks)
