@@ -16,6 +16,7 @@
 
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Zombori Zsolt
+    + [Laboron használt példaprogramok](lab/)
     + 3\. Házi feladat kiadása
 
 - 2020\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks)
