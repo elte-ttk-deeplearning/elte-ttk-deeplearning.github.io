@@ -17,7 +17,7 @@
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Zombori Zsolt
     + Laboron használt példaprogramok: [tutorial.py](lab/tutorial.py), [tutorial_regularize.py](lab/tutorial_regularize.py), [tutorial_batchnorm.py](lab/tutorial_batchnorm.py), [tutorial_conv.py](lab/tutorial_conv.py), [tutorial_siamese.py](lab/tutorial_siamese.py), [tutorial_callback.py](lab/tutorial_callback.py), [tutorial_metric.py](lab/tutorial_metric.py)
-    + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Március 25.
+    + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 25.
 
 - 2020\. 03\. 18\. Tavaszi szünet
 
