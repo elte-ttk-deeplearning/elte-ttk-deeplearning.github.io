@@ -19,14 +19,16 @@
     + Laboron használt példaprogramok: [tutorial.py](lab/tutorial.py), [tutorial_regularize.py](lab/tutorial_regularize.py), [tutorial_batchnorm.py](lab/tutorial_batchnorm.py), [tutorial_conv.py](lab/tutorial_conv.py), [tutorial_siamese.py](lab/tutorial_siamese.py), [tutorial_callback.py](lab/tutorial_callback.py), [tutorial_metric.py](lab/tutorial_metric.py)
     + 3\. Házi feladat kiadása
 
-- 2020\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks)
+- 2020\. 03\. 18\. Tavaszi szünet
+
+- 2020\. 03\. 25\. Generatív modellezés (Generative Adversarial Networks)
     + Előadó: Varga Dániel
     + 4\. Házi feladat kiadása
 
-- 2020\. 03\. 25\. Generatív modellezés (Variational Autoencoders)
+- 2020\. 04\. 01\. Generatív modellezés (Variational Autoencoders)
     + Előadó: Kiss Melinda
 
-- 2020\. 04\. 01\. Szekvencia Modellezés
+- 2020\. 04\. 08\. Szekvencia Modellezés
     + Előadó: Zombori Zsolt
 
 - 2020\. 04\. 15\. Természetes nyelv feldolgozás (NLP)
