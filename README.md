@@ -5,7 +5,7 @@
 
 - 2020\. 02\. 19\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
     + Előadó: Zombori Zsolt
-    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 4.
+    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 8.
 
 - 2020\. 02\. 26\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
@@ -17,7 +17,7 @@
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Zombori Zsolt
     + Laboron használt példaprogramok: [tutorial.py](lab/tutorial.py), [tutorial_regularize.py](lab/tutorial_regularize.py), [tutorial_batchnorm.py](lab/tutorial_batchnorm.py), [tutorial_conv.py](lab/tutorial_conv.py), [tutorial_siamese.py](lab/tutorial_siamese.py), [tutorial_callback.py](lab/tutorial_callback.py), [tutorial_metric.py](lab/tutorial_metric.py)
-    + 3\. Házi feladat kiadása
+    + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Március 25.
 
 - 2020\. 03\. 18\. Tavaszi szünet
 
