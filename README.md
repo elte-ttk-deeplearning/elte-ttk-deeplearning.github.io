@@ -11,7 +11,7 @@
     + Előadó: Csiszárik Adrián
     + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 15.
 
-- 2020\. 03\. 04\. Optimalizálás neurális hálózatokban
+- 2020\. 03\. 04\. [Mély hálók: Batchnorm, Resnet; Optimalizálás neurális hálózatokban](docs/dl2020_deep_nets.pdf)
     + Előadó: Csiszárik Adrián
 
 - 2020\. 03\. 11\. Labor: Deep Learning programozási alapismeretek
