@@ -5,11 +5,11 @@
 
 - 2020\. 02\. 19\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
     + Előadó: Zombori Zsolt
-    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 8.
+    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 4.
 
 - 2020\. 02\. 26\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
-    + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 11.
+    + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 15.
 
 - 2020\. 03\. 04\. Optimalizálás neurális hálózatokban
     + Előadó: Csiszárik Adrián
