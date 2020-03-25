@@ -23,6 +23,9 @@
 
 - 2020\. 03\. 25\. Generatív modellezés (Generative Adversarial Networks)
     + Előadó: Varga Dániel
+    + Az előadást virtuálisan tartjuk meg a Microsoft Teams program segítségével
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
+    + A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
     + 4\. Házi feladat kiadása
 
 - 2020\. 04\. 01\. Generatív modellezés (Variational Autoencoders)
