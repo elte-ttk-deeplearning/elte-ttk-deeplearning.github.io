@@ -1,3 +1,15 @@
+**Onine üzemmód**
+
+- Március 25-étől kezdődően az előadásokat virtuálisan tartjuk a Microsoft Teams program segítségével
+- Időpont: szokásos szerda 16:00
+- Helyszín: "Course 2019/20/2 deepln1x0_m17vx 1 - Mély tanulás (deep learning)" általános (general) csatornájában nyitott videóbeszélgetés
+- [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
+- A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
+- Meeting etikett
+    + Kérjük, hogy mindenki hang nélkül jelentkezzen be a szobába.
+    + A kérdések feltevését erősen bátorítjuk, de szeretnénk keretek között tartani. Előadás közben kérdéseket a meeting chat funkcióján keresztül lehet feltenni. Az előadó mellett lesz a szobában olyan oktató, aki a kérdéseket írásban megválaszolja, vagy szóban közvetíti az előadó felé. Emellett az előadó gyakran meg fogja adni a lehetőséget, hogy a hallgatók szabadon kérdezzenek, akár írásban, akár szóban.
+
+
 **A 2020-as tavaszi félév (tervezett) programja**
 
 - 2020\. 02\. 12\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
@@ -21,35 +33,41 @@
 
 - 2020\. 03\. 18\. Tavaszi szünet
 
-- 2020\. 03\. 25\. Generatív modellezés (Generative Adversarial Networks)
+- 2020\. 03\. 25\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Varga Dániel
-    + Az előadást virtuálisan tartjuk meg a Microsoft Teams program segítségével
-    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
-    + A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
-    + 4\. Házi feladat kiadása
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)    
+    + [4\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 15.
 
-- 2020\. 04\. 01\. Generatív modellezés (Variational Autoencoders)
+- 2020\. 04\. 01\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
+    + [További hasznos linkek](docs/dl2020_vae_links.md)
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 - 2020\. 04\. 08\. Szekvencia Modellezés
     + Előadó: Zombori Zsolt
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 - 2020\. 04\. 15\. Természetes nyelv feldolgozás (NLP)
     + Előadó: Csanády Bálint
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
     + 5\. Házi feladat kiadása
 
 - 2020\. 04\. 22\. Attention, Transformer, BERT
     + Előadó: Csiszárik Adrián
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 - 2020\. 04\. 29\. Megerősítéses tanulás
     + Előadó: Zombori Zsolt
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
     + 6\. Házi feladat kiadása
 
 - 2020\. 05\. 06\. StyleGAN
     + Előadó: Varga Dániel
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 - 2020\. 05\. 13\. Öntanulás (Self supervised learning)
     + Előadó: Csiszárik Adrián
+    + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 **Jegyszerzés módja**
 
