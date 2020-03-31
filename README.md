@@ -1,4 +1,4 @@
-**Onine üzemmód**
+**Online üzemmód**
 
 - Március 25-étől kezdődően az előadásokat virtuálisan tartjuk a Microsoft Teams program segítségével
 - Időpont: szokásos szerda 16:00
