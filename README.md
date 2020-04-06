@@ -45,6 +45,10 @@
 
 - 2020\. 04\. 08\. Szekvencia Modellezés
     + Előadó: Zombori Zsolt
+    + [Elolvasandó tananyag](https://www.deeplearningbook.org/contents/rnn.html)
+    + További hasznos linkek:
+        + [LSTM bevezető](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+        + [LSTM példakód Tensorflow2-vel](https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35)
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
 - 2020\. 04\. 15\. Természetes nyelv feldolgozás (NLP)
