@@ -51,11 +51,15 @@
         + [LSTM példakód Tensorflow2-vel](https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35)
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
-- 2020\. 04\. 15\. Természetes nyelv feldolgozás (NLP)
+- 2020\. 04\. 15\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
+    + [További hasznos linkek](docs/dl2020_nlp_links.md)
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
-    + 5\. Házi feladat kiadása
-
+    + 5\. Házi feladat: Határidő április 29.
+        + [Word2Vec](https://colab.research.google.com/drive/1LyigxaokouZw2yvKGM_EjvY1eeAePjSM) - 30%
+        + [LSTM](https://colab.research.google.com/drive/1sX-pXKV_0JlQ2l4qWwBBCF_iiRa1FuZZ) - 70%
+        + [GPT2](https://colab.research.google.com/drive/1m3r46sd8_rCOvTbSa-FujRVpyhuqCJUm) - szorgalmi
+        
 - 2020\. 04\. 22\. Attention, Transformer, BERT
     + Előadó: Csiszárik Adrián
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
