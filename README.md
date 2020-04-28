@@ -60,7 +60,7 @@
         + [LSTM](https://colab.research.google.com/drive/1sX-pXKV_0JlQ2l4qWwBBCF_iiRa1FuZZ) - 70%
         + [GPT2](https://colab.research.google.com/drive/1m3r46sd8_rCOvTbSa-FujRVpyhuqCJUm) - szorgalmi
         
-- 2020\. 04\. 22\. Attention, Transformer, BERT
+- 2020\. 04\. 22\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
     + Előadó: Csiszárik Adrián
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
