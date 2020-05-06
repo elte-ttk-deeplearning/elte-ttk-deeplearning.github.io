@@ -67,7 +67,7 @@
 - 2020\. 04\. 29\. [Megerősítéses tanulás](docs/DL2020_rl.pdf)
     + Előadó: Zombori Zsolt
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
-    + 6\. Házi feladat kiadása
+    + 6\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 16.
 
 - 2020\. 05\. 06\. StyleGAN
     + Előadó: Varga Dániel
