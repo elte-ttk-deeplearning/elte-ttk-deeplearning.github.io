@@ -73,7 +73,7 @@
     + Előadó: Varga Dániel
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
-- 2020\. 05\. 13\. Öntanulás (Self supervised learning)
+- 2020\. 05\. 13\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
     + Előadó: Csiszárik Adrián
     + [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 
