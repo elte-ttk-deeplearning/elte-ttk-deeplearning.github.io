@@ -1,9 +1,9 @@
-**2021-es tavaszi félév**
+**Online üzemmód**
 
-- Az előadásokat virtuálisan tartjuk a Microsoft Teams program segítségével
-- Időpont: hétfő 16:00-17:30
-- Helyszín: "Course 2020/21/1 deepln1x0_m17vx 1 - Mély tanulás (deep learning)" általános (general) csatornájában nyitott videóbeszélgetés
-- [Link a tárgy csatornájára](https://teams.microsoft.com/l/team/19%3aba04521e63a641089010cca622801dde%40thread.tacv2/conversations?groupId=5d44fb4b-1f0d-4b38-baed-2f8d8d236988&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
+- Március 25-étől kezdődően az előadásokat virtuálisan tartjuk a Microsoft Teams program segítségével
+- Időpont: szokásos szerda 16:00
+- Helyszín: "Course 2019/20/2 deepln1x0_m17vx 1 - Mély tanulás (deep learning)" általános (general) csatornájában nyitott videóbeszélgetés
+- [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3ab49699eee7314b16a17311e17ff293b7%40thread.tacv2/General?groupId=d0460abd-d6f5-493a-bd90-cd4ac3930a3b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 - A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
 - Meeting etikett
     + Kérjük, hogy mindenki hang nélkül jelentkezzen be a szobába.
@@ -11,7 +11,6 @@
 
 
 **A 2020-as tavaszi félév programja**
-(Hamarosan frissülni fog az idei programmal)
 
 - 2020\. 02\. 12\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
     + Előadó: Varga Dániel
