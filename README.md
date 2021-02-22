@@ -16,7 +16,7 @@
 - 2020\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
     + Előadó: Varga Dániel
 
-- 2020\. 02\. 15\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
+- 2020\. 02\. 15\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
     + Előadó: Zombori Zsolt
     + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 1.
     + Házi feladat konzulens: Kiss Melinda
