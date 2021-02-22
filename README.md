@@ -10,6 +10,26 @@
     + A kérdések feltevését erősen bátorítjuk, de szeretnénk keretek között tartani. Előadás közben kérdéseket a meeting chat funkcióján keresztül lehet feltenni. Az előadó mellett lesz a szobában olyan oktató, aki a kérdéseket írásban megválaszolja, vagy szóban közvetíti az előadó felé. Emellett az előadó gyakran meg fogja adni a lehetőséget, hogy a hallgatók szabadon kérdezzenek, akár írásban, akár szóban.
 
 
+**A 2021-es tavaszi félév programja**
+(Folyamatosan bővül)
+
+- 2020\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
+    + Előadó: Varga Dániel
+
+- 2020\. 02\. 15\. [Deep Learning alapfogalmak](docs/dl2020_nn_bevezeto.pdf)
+    + Előadó: Zombori Zsolt
+    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 1.
+    + Házi feladat konzulens: Kiss Melinda
+
+- 2020\. 02\. 22\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
+    + Előadó: Csiszárik Adrián
+    + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 8.
+    + Házi feladat konzulens: Benkő Beatrix
+
+
+---
+
+
 **A 2020-as tavaszi félév programja**
 (Hamarosan frissülni fog az idei programmal)
 
