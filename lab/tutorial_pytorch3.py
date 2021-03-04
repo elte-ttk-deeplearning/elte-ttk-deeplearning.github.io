@@ -81,9 +81,9 @@ for e in range(EPOCHS):
         loss.backward()
         with torch.no_grad():
             a -= LEARNING_RATE * a.grad
-            b -= LEARNING_RATE * a.grad
-            c -= LEARNING_RATE * a.grad
-            d -= LEARNING_RATE * a.grad
+            b -= LEARNING_RATE * b.grad
+            c -= LEARNING_RATE * c.grad
+            d -= LEARNING_RATE * d.grad
 
             # Manually zero the gradients after updating weights
             a.grad = None
