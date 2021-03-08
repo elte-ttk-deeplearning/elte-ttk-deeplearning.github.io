@@ -14,7 +14,7 @@
 **A 2021-es tavaszi félév programja**
 (Folyamatosan bővül)
 
-- 2021\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
+- 2021\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2021.pdf)
     + Előadó: Varga Dániel
 
 - 2021\. 02\. 15\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
