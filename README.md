@@ -12,7 +12,7 @@
 - A házi feladatok státusza az alábbi linken követhető: [Házi feladatok státusza](https://bit.ly/3smKCzw)
 
 **A 2021-es tavaszi félév programja**
-(Folyamatosan bővül)
+
 
 - 2021\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2020.pdf)
     + Előadó: Varga Dániel
@@ -35,20 +35,20 @@
     + Laboron használt példaprogramok: [tutorial_pytorch1.py](lab/tutorial_pytorch1.py), [tutorial_pytorch2.py](lab/tutorial_pytorch2.py), [tutorial_pytorch3.py](lab/tutorial_pytorch3.py), [tutorial_pytorch4.py](lab/tutorial_pytorch4.py), [tutorial_pytorch5.py](lab/tutorial_pytorch5.py), [tutorial_pytorch6.py](lab/tutorial_pytorch6.py), [tutorial_pytorch7.py](lab/tutorial_pytorch7.py), [tutorial_pytorch8.py](lab/tutorial_pytorch8.py)
     + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 22.
 
-- 2021\. 03\. 15\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
+- 2021\. 03\. 22\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Varga Dániel
-    + [4\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő március 29.
+    + [4\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 04.
 
-- 2021\. 03\. 22\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
+- 2021\. 03\. 29\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
     + [További hasznos linkek](docs/dl2020_vae_links.md)
 
-- 2021\. 03\. 29\. [Szekvencia Modellezés](docs/DL2020_rnn.pdf)
-    + Előadó: Zombori Zsolt
-    + [Elolvasandó tananyag](https://www.deeplearningbook.org/contents/rnn.html)
-    + További hasznos linkek:
-        + [LSTM bevezető](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
-        + [LSTM példakód Tensorflow2-vel](https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35)
+[//]: # - 2021\. 03\. 29\. [Szekvencia Modellezés](docs/DL2020_rnn.pdf)
+[//]: #     + Előadó: Zombori Zsolt
+[//]: #     + [Elolvasandó tananyag](https://www.deeplearningbook.org/contents/rnn.html)
+[//]: #     + További hasznos linkek:
+[//]: #         + [LSTM bevezető](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+[//]: #         + [LSTM példakód Tensorflow2-vel](https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35)
 
 - 2021\. 04\. 05\. Tavaszi szünet
 
