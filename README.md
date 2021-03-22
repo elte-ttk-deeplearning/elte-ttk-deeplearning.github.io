@@ -36,7 +36,7 @@
     + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 29.
 
 - 2021\. 03\. 22\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
-    + Előadó: Varga Dániel
+    + Előadó: Zombori Zsolt
     + [4\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 12.
 
 - 2021\. 03\. 29\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)

@@ -1,6 +1,9 @@
 *Generative Adversarial Networks*
 
-**Elsődleges (kötelező) anyagok**
+**Előadás diasor**
+[GAN előadás](docs/DL2021_GAN.pdf)
+
+**Elsődleges anyagok**
 
 - [Stanford előadás](https://youtu.be/5WoItGTWV54?t=2996): az autoencoder/VAE fejezetet egyelőre ugorjuk át nyugodtan, annak külön alkalom lesz szentelve, az 50. perctől indul a GAN fejezet.
 - [Nagyon kezdő szintű bevezetés](https://developers.google.com/machine-learning/gan)
