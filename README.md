@@ -37,7 +37,6 @@
 
 - 2021\. 03\. 22\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Zombori Zsolt
-    + [4\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 12.
 
 - 2021\. 03\. 29\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
@@ -48,7 +47,7 @@
 - 2021\. 04\. 12\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
     + [További hasznos linkek](docs/dl2020_nlp_links.md)
-    + 5\. Házi feladat: Határidő április 26.
+    + 4\. Házi feladat: Határidő április 26.
         + [Word2Vec](https://colab.research.google.com/drive/1LyigxaokouZw2yvKGM_EjvY1eeAePjSM) - 30%
         + [LSTM](https://colab.research.google.com/drive/1sX-pXKV_0JlQ2l4qWwBBCF_iiRa1FuZZ) - 70%
         + [GPT2](https://colab.research.google.com/drive/1m3r46sd8_rCOvTbSa-FujRVpyhuqCJUm) - szorgalmi
@@ -58,10 +57,11 @@
 
 - 2021\. 04\. 26\. [Megerősítéses tanulás](docs/DL2020_rl.pdf)
     + Előadó: Zombori Zsolt
-    + 6\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
+    + 5\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
 
 - 2021\. 05\. 03\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
+    + [6\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 17.
 
 - 2021\. 05\. 10\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
     + Előadó: Csiszárik Adrián
