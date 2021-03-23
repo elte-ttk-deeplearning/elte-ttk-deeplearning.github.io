@@ -61,7 +61,7 @@
 
 - 2021\. 05\. 03\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
-    + [6\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő április 17.
+    + [6\. Házi feladat](https://colab.research.google.com/drive/1DHIvXwm0Z1QebuMPbDdooDxrjwCICOCC): Határidő május 17.
 
 - 2021\. 05\. 10\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
     + Előadó: Csiszárik Adrián
