@@ -46,12 +46,12 @@
 
 - 2021\. 04\. 12\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
+    + Az előadáshoz tartozó notebookok:
+        - [NLP alapok](https://colab.research.google.com/drive/1sGLCeaeRX8IaCYoXDDNGuK0cLbti6A7f?usp=sharing)
+        - [Szekvencia modellezés és rekurrens hálók](https://colab.research.google.com/drive/1jrRmTq_hLjhOGAjQVxRGzyrnr-pwj84A?usp=sharing)
     + [További hasznos linkek](docs/dl2020_nlp_links.md)
-    + 4\. Házi feladat: Határidő április 26.
-        + [Word2Vec](https://colab.research.google.com/drive/1LyigxaokouZw2yvKGM_EjvY1eeAePjSM) - 30%
-        + [LSTM](https://colab.research.google.com/drive/1sX-pXKV_0JlQ2l4qWwBBCF_iiRa1FuZZ) - 70%
-        + [GPT2](https://colab.research.google.com/drive/1m3r46sd8_rCOvTbSa-FujRVpyhuqCJUm) - szorgalmi
-        
+    + [4\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő május 3.
+
 - 2021\. 04\. 19\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
     + Előadó: Csiszárik Adrián
 
