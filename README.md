@@ -34,6 +34,7 @@
     + Előadó: Zombori Zsolt
     + Laboron használt példaprogramok: [tutorial_pytorch1.py](lab/tutorial_pytorch1.py), [tutorial_pytorch2.py](lab/tutorial_pytorch2.py), [tutorial_pytorch3.py](lab/tutorial_pytorch3.py), [tutorial_pytorch4.py](lab/tutorial_pytorch4.py), [tutorial_pytorch5.py](lab/tutorial_pytorch5.py), [tutorial_pytorch6.py](lab/tutorial_pytorch6.py), [tutorial_pytorch7.py](lab/tutorial_pytorch7.py), [tutorial_pytorch8.py](lab/tutorial_pytorch8.py)
     + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 29.
+    + Házi feladat konzulens: Benkő Beatrix
 
 - 2021\. 03\. 22\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Zombori Zsolt
@@ -51,13 +52,15 @@
         - [Szekvencia modellezés és rekurrens hálók](https://colab.research.google.com/drive/1jrRmTq_hLjhOGAjQVxRGzyrnr-pwj84A?usp=sharing)
     + [További hasznos linkek](docs/dl2020_nlp_links.md)
     + [4\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő május 3.
+    + Házi feladat konzulens: Csanády Bálint
 
 - 2021\. 04\. 19\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
     + Előadó: Csiszárik Adrián
 
-- 2021\. 04\. 26\. [Megerősítéses tanulás](docs/DL2020_rl.pdf)
+- 2021\. 04\. 26\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
     + Előadó: Zombori Zsolt
     + 5\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
+    + Házi feladat konzulens: Czifra Domonkos
 
 - 2021\. 05\. 03\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
