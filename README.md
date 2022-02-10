@@ -20,33 +20,41 @@
 - 2021\. 02\. 11\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2021.pdf)
     + Előadó: Varga Dániel
 
+
 - 2021\. 02\. 18\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
     + Előadó: Csiszárik Adrián
     + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 1.
     + Házi feladat konzulens: Kiss Melinda
 
+
 - 2021\. 02\. 25\. Labor: Deep Learning programozási alapismeretek
+
 
 - 2021\. 03\. 04\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
     + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 22.
     + Házi feladat konzulens: Benkő Beatrix
 
+
 - 2021\. 03\. 11\. [Mély hálók: Batchnorm, Resnet; Optimalizálás neurális hálózatokban](docs/dl2020_deep_nets.pdf)
     + Előadó: Csiszárik Adrián
     + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 29.
     + Házi feladat konzulens: Benkő Beatrix
 
+
 - 2021\. 03\. 18\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
     + [További hasznos linkek](docs/dl2020_vae_links.md)
 
+
 - 2021\. 03\. 25\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Varga Dániel
+
 
 - 2021\. 04\. 01\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
     + [4\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő május 17.
+
 
 - 2021\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
@@ -57,16 +65,21 @@
     + [5\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő május 3.
     + Házi feladat konzulens: Csanády Bálint
 
+
 - 2021\. 04\. 15\. Tavaszi szünet
- 
+
+
 - 2021\. 04\. 22\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
     + Előadó: Csanády Bálint
+
 
 - 2021\. 04\. 29\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
     + Előadó: Csiszárik Adrián
     + 6\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
 
+
 - 2021\. 05\. 06\. Pázmány nap
+
 
 - 2021\. 05\. 13\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
     + Előadó: Csiszárik Adrián
