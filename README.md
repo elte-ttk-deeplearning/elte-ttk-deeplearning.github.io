@@ -3,14 +3,16 @@
 - Az előadásokat kezdetben virtuálisan tartjuk a Microsoft Teams program segítségével, később pedig - ahogy a járványhelyzet megengedi - élőben.
 - Időpont: péntek 12:00-13:30 
 - Online helyszín: "Crs 21-22-2 deepln1u0um20sm 1 Mély tanulás (deep learning) szeminárium" általános (general) csatornájában nyitott videóbeszélgetés
-- Offline helyszín: 1-820 Hajós György terem (LD-1-820)
-- [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3azXhcJbQ6bXV_x8rBIAs0nnRAuMYL-CTlQbFrIfquF-M1%40thread.tacv2/General?groupId=7442a2d9-ef30-47cb-a0fb-7a2752ce8a4b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
+- Offline helyszín: (később, ahogyan a járványhelyzet megengedi) 1-820 Hajós György terem (LD-1-820)
+- [Link a tárgy Teams csatornájára](https://bit.ly/3sA3zjI)
+- Külön csatornád hoztunk létre a házi feladatokkal és egyéb technikai kérdésekkel kapcsolatban: [Teams technikai és hf kérdések csatorna](https://bit.ly/3BcDawa)
+
 - A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
 - Meeting etikett
     + Kérjük, hogy mindenki hang nélkül jelentkezzen be a szobába.
     + A kérdések feltevését erősen bátorítjuk, de szeretnénk keretek között tartani. Előadás közben kérdéseket a meeting chat funkcióján keresztül lehet feltenni. Az előadó mellett lesz a szobában olyan oktató, aki a kérdéseket írásban megválaszolja, vagy szóban közvetíti az előadó felé. Emellett az előadó gyakran meg fogja adni a lehetőséget, hogy a hallgatók szabadon kérdezzenek, akár írásban, akár szóban.
 
-- A házi feladatok státusza egy ide feltett táblázatban lesz majd követhető.
+- A házi feladatok státusza ebben a táblázatban követhető: [Táblázat](https://bit.ly/3gDgUCl)
 
 **A 2022-es tavaszi félév programja**
 
@@ -41,7 +43,7 @@
 
 - 2021\. 03\. 25\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
     + Előadó: Varga Dániel
-    + 
+
 - 2021\. 04\. 01\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
     + [4\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő május 17.
