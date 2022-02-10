@@ -5,7 +5,7 @@
 - Online helyszín: "Crs 21-22-2 deepln1u0um20sm 1 Mély tanulás (deep learning) szeminárium" általános (general) csatornájában nyitott videóbeszélgetés
 - Offline helyszín: (később, ahogyan a járványhelyzet megengedi) 1-820 Hajós György terem (LD-1-820)
 - [Link a tárgy Teams csatornájára](https://bit.ly/3sA3zjI)
-- Külön csatornád hoztunk létre a házi feladatokkal és egyéb technikai kérdésekkel kapcsolatban: [Teams technikai és házi feladat kérdések csatorna](https://bit.ly/3BcDawa)
+- Külön csatornát hoztunk létre a házi feladatokkal és egyéb technikai kérdésekkel kapcsolatban: [Teams technikai és házi feladat kérdések csatorna](https://bit.ly/3BcDawa)
 
 - A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
 - Meeting etikett
