@@ -1,72 +1,72 @@
-**2021-es tavaszi félév**
+**2022-es tavaszi félév**
 
-- Az előadásokat virtuálisan tartjuk a Microsoft Teams program segítségével
-- Időpont: hétfő 16:00-17:30
-- Helyszín: "Course 2020/21/1 deepln1x0_m17vx 1 - Mély tanulás (deep learning)" általános (general) csatornájában nyitott videóbeszélgetés
-- [Link a tárgy csatornájára](https://teams.microsoft.com/l/team/19%3aba04521e63a641089010cca622801dde%40thread.tacv2/conversations?groupId=5d44fb4b-1f0d-4b38-baed-2f8d8d236988&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
+- Az előadásokat kezdetben virtuálisan tartjuk a Microsoft Teams program segítségével, később pedig - ahogy a járványhelyzet megengedi - élőben.
+- Időpont: péntek 12:00-13:30 
+- Online helyszín: "Crs 21-22-2 deepln1u0um20sm 1 Mély tanulás (deep learning) szeminárium" általános (general) csatornájában nyitott videóbeszélgetés
+- Offline helyszín: 1-820 Hajós György terem (LD-1-820)
+- [Link a tárgy csatornájára](https://teams.microsoft.com/l/channel/19%3azXhcJbQ6bXV_x8rBIAs0nnRAuMYL-CTlQbFrIfquF-M1%40thread.tacv2/General?groupId=7442a2d9-ef30-47cb-a0fb-7a2752ce8a4b&tenantId=b366dbcd-4fc3-4451-82d2-e239564302c3)
 - A belépéshez caesar.elte.hu vagy student.elte.hu fiókra van szükség
 - Meeting etikett
     + Kérjük, hogy mindenki hang nélkül jelentkezzen be a szobába.
     + A kérdések feltevését erősen bátorítjuk, de szeretnénk keretek között tartani. Előadás közben kérdéseket a meeting chat funkcióján keresztül lehet feltenni. Az előadó mellett lesz a szobában olyan oktató, aki a kérdéseket írásban megválaszolja, vagy szóban közvetíti az előadó felé. Emellett az előadó gyakran meg fogja adni a lehetőséget, hogy a hallgatók szabadon kérdezzenek, akár írásban, akár szóban.
 
-- A házi feladatok státusza az alábbi linken követhető: [Házi feladatok státusza](https://bit.ly/3smKCzw)
+- A házi feladatok státusza egy ide feltett táblázatban lesz majd követhető.
 
-**A 2021-es tavaszi félév programja**
+**A 2022-es tavaszi félév programja**
 
 
-- 2021\. 02\. 08\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2021.pdf)
+- 2021\. 02\. 11\. [Bevezető, kedvcsináló](docs/elte-deeplearning-starter-2021.pdf)
     + Előadó: Varga Dániel
 
-- 2021\. 02\. 15\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
-    + Előadó: Zombori Zsolt
+- 2021\. 02\. 18\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
+    + Előadó: Csiszárik Adrián
     + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 1.
     + Házi feladat konzulens: Kiss Melinda
 
-- 2021\. 02\. 22\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
+- 2021\. 02\. 25\. Labor: Deep Learning programozási alapismeretek
+
+- 2021\. 03\. 04\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
     + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 22.
     + Házi feladat konzulens: Benkő Beatrix
 
-- 2021\. 03\. 01\. [Mély hálók: Batchnorm, Resnet; Optimalizálás neurális hálózatokban](docs/dl2020_deep_nets.pdf)
+- 2021\. 03\. 11\. [Mély hálók: Batchnorm, Resnet; Optimalizálás neurális hálózatokban](docs/dl2020_deep_nets.pdf)
     + Előadó: Csiszárik Adrián
-
-- 2021\. 03\. 08\. Labor: Deep Learning programozási alapismeretek
-    + Előadó: Zombori Zsolt
-    + Laboron használt példaprogramok: [tutorial_pytorch1.py](lab/tutorial_pytorch1.py), [tutorial_pytorch2.py](lab/tutorial_pytorch2.py), [tutorial_pytorch3.py](lab/tutorial_pytorch3.py), [tutorial_pytorch4.py](lab/tutorial_pytorch4.py), [tutorial_pytorch5.py](lab/tutorial_pytorch5.py), [tutorial_pytorch6.py](lab/tutorial_pytorch6.py), [tutorial_pytorch7.py](lab/tutorial_pytorch7.py), [tutorial_pytorch8.py](lab/tutorial_pytorch8.py)
     + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 29.
     + Házi feladat konzulens: Benkő Beatrix
 
-- 2021\. 03\. 22\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
-    + Előadó: Zombori Zsolt
-
-- 2021\. 03\. 29\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
+- 2021\. 03\. 18\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
     + [További hasznos linkek](docs/dl2020_vae_links.md)
 
-- 2021\. 04\. 05\. Tavaszi szünet
+- 2021\. 03\. 25\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
+    + Előadó: Varga Dániel
+    + 
+- 2021\. 04\. 01\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
+    + Előadó: Varga Dániel
+    + [4\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő május 17.
 
-- 2021\. 04\. 12\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
+- 2021\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
     + Az előadáshoz tartozó notebookok:
         - [NLP alapok](https://colab.research.google.com/drive/1sGLCeaeRX8IaCYoXDDNGuK0cLbti6A7f?usp=sharing)
         - [Szekvencia modellezés és rekurrens hálók](https://colab.research.google.com/drive/1jrRmTq_hLjhOGAjQVxRGzyrnr-pwj84A?usp=sharing)
     + [További hasznos linkek](docs/dl2020_nlp_links.md)
-    + [4\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő május 3.
+    + [5\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő május 3.
     + Házi feladat konzulens: Csanády Bálint
 
-- 2021\. 04\. 19\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
+- 2021\. 04\. 15\. Tavaszi szünet
+ 
+- 2021\. 04\. 22\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
+    + Előadó: Csanády Bálint
+
+- 2021\. 04\. 29\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
     + Előadó: Csiszárik Adrián
+    + 6\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
 
-- 2021\. 04\. 26\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
-    + Előadó: Zombori Zsolt
-    + 5\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 10.
-    + Házi feladat konzulens: Czifra Domonkos
+- 2021\. 05\. 06\. Pázmány nap
 
-- 2021\. 05\. 03\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
-    + Előadó: Varga Dániel
-    + [6\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő május 17.
-
-- 2021\. 05\. 10\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+- 2021\. 05\. 13\. [Öntanulás (Self supervised learning)](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
     + Előadó: Csiszárik Adrián
 
 **Jegyszerzés módja**
@@ -86,15 +86,13 @@ Személyes konzultáció előzetes e-mail egyeztetés alapján
 
 
 **Előadók:**
+* Benkő Beatrix: b[keresztnev]1010@gmail.com
+* Csanády Bálint: cs[keresztnev]@cs.elte.hu
 * Csiszárik Adrián: cs[keresztnev]@renyi.hu
+* Kiss Melinda: [keresztnev]f[vezeteknev]@gmail.com
 * Lukács András: [vezeteknev]@cs.elte.hu
 * Varga Dániel: [keresztnev]@renyi.hu
-* Zombori Zsolt: [vezeteknev]@renyi.hu
 
-* Benkő Beatrix: b[keresztnev]1010@gmail.com
-* Czifra Domonkos: [keresztnev].[vezeteknev]@gmail.com
-* Csanády Bálint: cs[keresztnev]@cs.elte.hu
-* Kiss Melinda: [keresztnev]f[vezeteknev]@gmail.com
 
 **Hosszútávú kutatási lehetőségek**
 
