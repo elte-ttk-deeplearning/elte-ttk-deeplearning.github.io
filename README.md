@@ -28,7 +28,7 @@
 
 
 - 2022\. 02\. 25\. Labor: Deep Learning programozási alapismeretek
-
+    + Előadó: Benkő Beatrix
 
 - 2022\. 03\. 04\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
