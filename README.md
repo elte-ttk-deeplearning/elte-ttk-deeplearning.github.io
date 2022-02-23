@@ -56,7 +56,7 @@
     + [4\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő április 14.
 
 
-- 2021\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
+- 2022\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
     + Előadó: Csanády Bálint
     + Az előadáshoz tartozó notebookok:
         - [NLP alapok](https://colab.research.google.com/drive/1sGLCeaeRX8IaCYoXDDNGuK0cLbti6A7f?usp=sharing)
