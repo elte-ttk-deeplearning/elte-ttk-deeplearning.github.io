@@ -21,7 +21,7 @@
     + Előadó: Varga Dániel
 
 
-- 2022\. 02\. 18\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
+- 2022\. 02\. 18\. [Deep Learning alapfogalmak](docs/NN.pdf)
     + Előadó: Csiszárik Adrián
 
 
