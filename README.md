@@ -23,23 +23,18 @@
 
 - 2022\. 02\. 18\. [Deep Learning alapfogalmak](docs/dl2021_nn_bevezeto.pdf)
     + Előadó: Csiszárik Adrián
-    + [1\. Házi feladat](https://colab.research.google.com/drive/10a_O1RO3OZ3i6Jj_O8w0XScYJQcyiAyf#scrollTo=Oefmx5K2WCPk): Határidő március 3.
-    + Házi feladat konzulens: Kiss Melinda
 
 
 - 2022\. 02\. 25\. Labor: Deep Learning programozási alapismeretek
     + Előadó: Benkő Beatrix
 
+
 - 2022\. 03\. 04\. [Konvolúciós hálózatok](docs/dl2020_cnn.pdf)
     + Előadó: Csiszárik Adrián
-    + [2\. Házi feladat](https://colab.research.google.com/drive/1LK-KFuyAiW39O1NX0YR8cvd8x5fr6nSp#scrollTo=-Oyd2Yyk94V7): Határidő március 17.
-    + Házi feladat konzulens: Benkő Beatrix
 
 
 - 2022\. 03\. 11\. [Mély hálók: Batchnorm, Resnet; Optimalizálás neurális hálózatokban](docs/dl2020_deep_nets.pdf)
     + Előadó: Csiszárik Adrián
-    + [3\. Házi feladat](https://colab.research.google.com/drive/1QgppKeLY_eL2JgHxy5Bl_uYfn1ucK9Ey): Határidő március 24.
-    + Házi feladat konzulens: Benkő Beatrix
 
 
 - 2022\. 03\. 18\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
@@ -53,7 +48,6 @@
 
 - 2022\. 04\. 01\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
     + Előadó: Varga Dániel
-    + [4\. Házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE): Határidő április 14.
 
 
 - 2022\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
@@ -62,8 +56,6 @@
         - [NLP alapok](https://colab.research.google.com/drive/1sGLCeaeRX8IaCYoXDDNGuK0cLbti6A7f?usp=sharing)
         - [Szekvencia modellezés és rekurrens hálók](https://colab.research.google.com/drive/1jrRmTq_hLjhOGAjQVxRGzyrnr-pwj84A?usp=sharing)
     + [További hasznos linkek](docs/dl2020_nlp_links.md)
-    + [5\. Házi feladat](https://colab.research.google.com/drive/1zacR9YfA1NXt6wIXVWO8hGqdQcrqIzVE?usp=sharing): Határidő április 21.
-    + Házi feladat konzulens: Csanády Bálint
 
 
 - 2022\. 04\. 15\. Tavaszi szünet
@@ -75,7 +67,6 @@
 
 - 2022\. 04\. 29\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
     + Előadó: Csiszárik Adrián
-    + 6\. [Házi feladat](https://colab.research.google.com/drive/1wkXMJRDBq3a8HO4ggeS88MHr1T_1IO_M?usp=sharing): Határidő május 12.
 
 
 - 2022\. 05\. 06\. Pázmány nap
