@@ -43,17 +43,17 @@
     + Előadó: Csiszárik Adrián
 
 
-- 2022\. 03\. 18\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
+- 2022\. 03\. 18\. Generatív modellezés (Generative Adversarial Networks): [Előadás](docs/dl2022_gan.pdf) és [további linkek](docs/dl2022_gan_links.md)
+    + Előadó: Varga Dániel
+
+
+- 2022\. 03\. 25\. [StyleGAN](docs/dl2022_stylegan.pdf) és [CLIP](docs/dl2022_clip.pdf)
+    + Előadó: Varga Dániel
+
+
+- 2022\. 04\. 01\. [Generatív modellezés (Variational Autoencoders)](docs/dl2020_vae.pdf)
     + Előadó: Kiss Melinda
     + [További hasznos linkek](docs/dl2020_vae_links.md)
-
-
-- 2022\. 03\. 25\. [Generatív modellezés (Generative Adversarial Networks)](docs/dl2020_gan_links.md)
-    + Előadó: Varga Dániel
-
-
-- 2022\. 04\. 01\. [StyleGAN](https://users.renyi.hu/~daniel/stylegan-szeminarium-2020.pdf)
-    + Előadó: Varga Dániel
 
 
 - 2022\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)

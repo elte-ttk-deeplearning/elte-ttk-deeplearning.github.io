@@ -1,7 +1,7 @@
 *Generative Adversarial Networks*
 
 **Előadás diasor**
-[GAN előadás](DL2021_GAN.pdf)
+[GAN előadás](dl2022_gan.pdf)
 
 **Elsődleges anyagok**
 
