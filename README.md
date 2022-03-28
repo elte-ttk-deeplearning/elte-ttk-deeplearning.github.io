@@ -14,11 +14,14 @@
 
 - A házi feladatok státusza ebben a táblázatban követhető: [Táblázat](https://bit.ly/3gDgUCl)
 
-**Házi feladatok:**  
-        [1. házi feladat](https://colab.research.google.com/drive/1OYAfbYqlu3gyS7ByQjxuhRAaO9y4YsBz?usp=sharing)  
-                Határidő: 2022. március 25. 11:00      
-        [2. házi feladat](https://colab.research.google.com/drive/1wGicfPYActhhnL-ZmnSixsh0S_FGd0-G?usp=sharing)      
-                Határidő: 2022. április 01. 11:00  
+**Házi feladatok:**
+
+- [1. házi feladat](https://colab.research.google.com/drive/1OYAfbYqlu3gyS7ByQjxuhRAaO9y4YsBz?usp=sharing)
+    Határidő: 2022. március 25. 11:00
+- [2. házi feladat](https://colab.research.google.com/drive/1wGicfPYActhhnL-ZmnSixsh0S_FGd0-G?usp=sharing)
+    Határidő: 2022. április 01. 11:00 
+- [3. házi feladat](https://colab.research.google.com/drive/1OxRHEfaZvqC_CkbSFctTzjrCLrh_JsHE?usp=sharing)
+    Határidő: 2022. április 22. 11:00 
 
 **A 2022-es tavaszi félév programja**
 
@@ -47,7 +50,7 @@
     + Előadó: Varga Dániel
 
 
-- 2022\. 03\. 25\. [StyleGAN](docs/dl2022_stylegan.pdf) és [CLIP](docs/dl2022_clip.pdf)
+- 2022\. 03\. 25\. [StyleGAN](https://static.renyi.hu/ai-shared/daniel/dlseminar/dl2022_stylegan.pdf) és [CLIP](https://static.renyi.hu/ai-shared/daniel/dlseminar/dl2022_clip.pdf)
     + Előadó: Varga Dániel
 
 
