@@ -59,13 +59,11 @@
     + [További hasznos linkek](docs/dl2020_vae_links.md)
 
 
-- 2022\. 04\. 08\. [Természetes nyelv feldolgozás (NLP)](https://colab.research.google.com/drive/1cfy30mNHtAbhkvae4s3uyajbpGHz3uiL)
+- 2022\. 04\. 08\. Természetes nyelv feldolgozás (NLP)
     + Előadó: Csanády Bálint
     + Az előadáshoz tartozó notebookok:
-        - [NLP alapok](https://colab.research.google.com/drive/1sGLCeaeRX8IaCYoXDDNGuK0cLbti6A7f?usp=sharing)
-        - [Szekvencia modellezés és rekurrens hálók](https://colab.research.google.com/drive/1jrRmTq_hLjhOGAjQVxRGzyrnr-pwj84A?usp=sharing)
-    + [További hasznos linkek](docs/dl2020_nlp_links.md)
-
+        - [NLP alapok](https://drive.google.com/file/d/1PoZxrtsJwmltdIJ5V5ylViGencK2qJE-/view?usp=sharing)
+        - [Szekvencia modellezés és 4. házi feladat](https://drive.google.com/file/d/1SzvF5YzJLkMPcFkHWwks9N23MKP-vPl3/view?usp=sharing)
 
 - 2022\. 04\. 15\. Tavaszi szünet
 
