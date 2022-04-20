@@ -22,7 +22,7 @@
     Határidő: 2022. április 01. 11:00 
 - [3. házi feladat](https://colab.research.google.com/drive/1ZJD05MF0zk_NpBHUljWECjQ2rq7P3J_O?usp=sharing)
     Határidő: 2022. április 22. 11:00 
-- [4. házi feladat](https://colab.research.google.com/drive/1SzvF5YzJLkMPcFkHWwks9N23MKP-vPl3)
+- [4. házi feladat](https://colab.research.google.com/drive/1SzvF5YzJLkMPcFkHWwks9N23MKP-vPl3#scrollTo=A3JzinblSS-w)
     Határidő: 2022. május 06. 11:00 
 
 **A 2022-es tavaszi félév programja**
@@ -70,7 +70,7 @@
 - 2022\. 04\. 15\. Tavaszi szünet
 
 
-- 2022\. 04\. 22\. [Attention, Transformer, BERT](docs/dl2020_attention_links.md)
+- 2022\. 04\. 22\. [Attention, Transformer, BERT](https://drive.google.com/file/d/1bV0SeFeURLzzLHU4s6cwEx6MvlcKY0f2/view?usp=sharing)
     + Előadó: Csanády Bálint
 
 
