@@ -22,6 +22,8 @@
     Határidő: 2022. április 01. 11:00 
 - [3. házi feladat](https://colab.research.google.com/drive/1ZJD05MF0zk_NpBHUljWECjQ2rq7P3J_O?usp=sharing)
     Határidő: 2022. április 22. 11:00 
+- [4. házi feladat](https://colab.research.google.com/drive/1SzvF5YzJLkMPcFkHWwks9N23MKP-vPl3)
+    Határidő: 2022. május 06. 11:00 
 
 **A 2022-es tavaszi félév programja**
 
