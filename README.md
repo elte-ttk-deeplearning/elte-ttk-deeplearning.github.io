@@ -73,7 +73,7 @@
 - 2022\. 04\. 22\. 
     + Előadó: Csanády Bálint
     + Az előadáshoz tartozó notebook:
-        - [Attention, Transformer, BERT](https://drive.google.com/file/d/1bV0SeFeURLzzLHU4s6cwEx6MvlcKY0f2/view?usp=sharing)
+        - [Attention, Transformer, BERT, GPT-3](https://drive.google.com/file/d/1bV0SeFeURLzzLHU4s6cwEx6MvlcKY0f2/view?usp=sharing)
 
 
 - 2022\. 04\. 29\. [Megerősítéses tanulás](docs/dl2021_rl.pdf)
