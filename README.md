@@ -12,7 +12,7 @@
     + Kérjük, hogy mindenki hang nélkül jelentkezzen be a szobába.
     + A kérdések feltevését erősen bátorítjuk, de szeretnénk keretek között tartani. Előadás közben kérdéseket a meeting chat funkcióján keresztül lehet feltenni. Az előadó mellett lesz a szobában olyan oktató, aki a kérdéseket írásban megválaszolja, vagy szóban közvetíti az előadó felé. Emellett az előadó gyakran meg fogja adni a lehetőséget, hogy a hallgatók szabadon kérdezzenek, akár írásban, akár szóban.
 
-- A házi feladatok státusza ebben a táblázatban követhető: [Táblázat](https://bit.ly/3gDgUCl)
+- A házi feladatok státusza ebben a táblázatban követhető: [Táblázat](https://docs.google.com/spreadsheets/d/1gc6HjFXcLo-0S2R3rOLX42gPHaRJi2WknZmzQ2oQgkY]
 
 **Házi feladatok:**
 
