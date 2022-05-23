@@ -24,7 +24,7 @@
     Határidő: 2022. április 22. 11:00 
 - [4. házi feladat](https://colab.research.google.com/drive/1SzvF5YzJLkMPcFkHWwks9N23MKP-vPl3#scrollTo=A3JzinblSS-w)
     Határidő: 2022. május 06. 11:00 (Leadás: Teams assignment)
-- 5. házi feladat, hamarosan jön!
+- Ötödik házi feladat, hamarosan jön!
 - [6. házi feladat](https://colab.research.google.com/drive/1RO0hY9EcKjq7A5IdMhExThHQPpwRvcPW?usp=sharing) Határidő: 2022. június 12. 12:00
 
 **A 2022-es tavaszi félév programja**
